@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "jpinc"
+    },
+    "record": {
+        "NS": [
+            "ns1.cloudns.net",
+            "ns2.cloudns.net"
+        ]
+    }
+}
